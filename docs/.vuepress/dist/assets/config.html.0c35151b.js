@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c,b as a}from"./app.ace68900.js";const n={},s={id:"config",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#config","aria-hidden":"true"},"#",-1),r=a(" Config"),i=[_,r];function d(f,h){return o(),t("h1",s,i)}var m=e(n,[["render",d],["__file","config.html.vue"]]);export{m as default};

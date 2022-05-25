@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"Hello World",lang:"zh-CN",frontmatter:{lang:"zh-CN",title:"Hello World",description:"\u9875\u9762\u7684\u63CF\u8FF0"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"README.md"};export{t as data};

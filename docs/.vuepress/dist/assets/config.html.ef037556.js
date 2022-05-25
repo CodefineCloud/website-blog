@@ -1,0 +1,1 @@
+const e={key:"v-65a9edeb",path:"/zh/reference/config.html",title:"Config",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"zh/reference/config.md"};export{e as data};
