@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as n,b as o}from"./app.ace68900.js";const s={},c={id:"zh-index",tabindex:"-1"},_=n("a",{class:"header-anchor",href:"#zh-index","aria-hidden":"true"},"#",-1),d=o(" ZH Index"),r=[_,d];function i(h,x){return t(),a("h1",c,r)}var l=e(s,[["render",i],["__file","index.html.vue"]]);export{l as default};

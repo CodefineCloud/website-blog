@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,a as s,b as r}from"./app.ace68900.js";const n={},o={id:"getting-started",tabindex:"-1"},c=s("a",{class:"header-anchor",href:"#getting-started","aria-hidden":"true"},"#",-1),_=r(" getting-started"),d=[c,_];function i(h,g){return e(),a("h1",o,d)}var l=t(n,[["render",i],["__file","getting-started.html.vue"]]);export{l as default};

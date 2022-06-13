@@ -1,1 +1,0 @@
-const e={key:"v-47357bdb",path:"/zh/guide/",title:"Guide Index",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"zh/guide/README.md"};export{e as data};

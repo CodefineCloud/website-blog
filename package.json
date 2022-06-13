@@ -2,7 +2,7 @@
   "name": "private-blog",
   "version": "1.0.0",
   "description": "My Blog",
-  "main": "index.js",
+  "product": "docs/.vuepress/dist",
   "dependencies": {
     "vuepress": "^2.0.0-beta.45"
   },
@@ -10,7 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "build": "npm run docs:build"
   },
   "repository": {
     "type": "git",
